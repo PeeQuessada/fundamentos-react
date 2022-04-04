@@ -1,6 +1,6 @@
 import React from 'react'
 
-import produtos from '../data/produtcts'
+import produtos from '../../data/produtcts'
 
 export default function Repeticao(props) {
 
